@@ -1,0 +1,25 @@
+.confirm {
+    margin: 50px auto;
+    height: 100px;
+    width: 200px;
+    text-align:center;
+    font-weight: bold;
+    background-color: #cccccc;
+}
+span{
+    font-weight: bold;
+}
+.confirm_container {
+    padding-top: 10px;
+    font-weight: bold;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.confirm_button{
+    padding: 30px 30px;
+}
+.yes{
+    margin-right: 20px;
+    color: brown;
+}
